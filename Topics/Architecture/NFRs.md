@@ -11,4 +11,4 @@ Refer to this blog post which very well articulates Non-functional requirements.
 ![Non-functional requirements in Software Engineering] (https://www.altexsoft.com/blog/non-functional-requirements/)
 ```
 
-## Curated Checklist of NFRs 
+## Curated Checklist of NFRs  
