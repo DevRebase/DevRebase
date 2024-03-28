@@ -6,6 +6,7 @@ While building applications, it is very important to define and quantify Non-fun
 > [!NOTE]
 > This blog post very well articulates some of the most common NFRs.
 [ Non-functional requirements in Software Engineering] (https://www.altexsoft.com/blog/non-functional-requirements/)
+> ![Common NFRs](images/NFR1.png)
 
 ##  Non-functional requirements in Software Engineering
 ![Common NFRs](images/NFR1.png)
